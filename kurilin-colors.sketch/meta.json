@@ -1,0 +1,38 @@
+{
+"commit":"1b735aa8f66d3e13f8900ae7c369f355f0eb2d3a",
+"pagesAndArtboards":{
+"8387E4DF-2662-4447-AD77-E102BB20D953":{
+"name":"Page 1",
+"artboards":{
+"FA26D0A8-48E5-4C10-91E3-4A7D2B9F3997":{
+"name":"layer style"
+},
+"8C68DC36-EEA1-4A91-AF9C-96B3287F5348":{
+"name":"text style"
+}
+}
+}
+},
+"version":118,
+"fonts":[
+"Inter-Medium"
+],
+"compatibilityVersion":99,
+"app":"com.bohemiancoding.sketch3",
+"autosaved":0,
+"variant":"NONAPPSTORE",
+"created":{
+"commit":"1b735aa8f66d3e13f8900ae7c369f355f0eb2d3a",
+"appVersion":"55.1",
+"build":78136,
+"app":"com.bohemiancoding.sketch3",
+"compatibilityVersion":99,
+"version":118,
+"variant":"NONAPPSTORE"
+},
+"saveHistory":[
+"NONAPPSTORE.78136"
+],
+"appVersion":"55.1",
+"build":78136
+}
